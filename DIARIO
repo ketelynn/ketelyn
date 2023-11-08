@@ -1,12 +1,27 @@
 O QUE APRENDI NA AULA DO DIA 17/10/2023
-NADA
+Nesta aula a moça do video explicou como,
+Diferenciar um código javascript assíncrono e como,
+Compreender a leitura do código javascript.
 
-O QUE APRENDI NA AULA DO DIA 24/10/2023 
-NADA
+O QUE APRENDI NA AULA DO DIA 24/10/2023
+Nesta aula eu aprendi como criar funções que recebem
+como parâmetros outras funções (callbacks) e como
+Identificar uma API.
+
 
 O QUE EU APRENDI NA AULA DO DIA 25/10/2023
-APRENDI A FAZER UM NOVO CÒDIGO
+Na aula de hoje a moça do video ensinou a:
+Tratar promises a partir dos seus métodos 
+Utilizar o método then para acessar o valor retornado do fetch API
 
 O QUE EU APRENDI NA AULA DO DIA 31/10/2023
-HOJE EU APRENDI COMO POSSO PASSAR UM ARQUIVO 
-DO  JAVASCRIPT PARA DENTRO DO HTML
+Na aula de hoje eu aprendi a como conseguir me:
+Lidar com possíveis erros com o método catch
+Enviar respostas independente do retorno com o método finally.
+
+O QUE EU APRENDI NA AULA DO DIA 08/11/2023
+Hoje eu aprendi a que não a so uma maneira de fazer
+um código assìcronico,e como
+Construir funções assíncronas com async,
+Criar requisições com await,
+Tratar erros com try catch.
